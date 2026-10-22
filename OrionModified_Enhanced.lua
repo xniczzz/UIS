@@ -1,7 +1,6 @@
 --[[
-Orion Library - made by: shlexware/jensonhirst
-Modified by: 00Fazee (elrandom#1311) | discord.gg/jB4yJgn3pE
-Last Modified: 19/10/2026 | dd/mm/yy
+Orion Library - by: shlexware/jensonhirst
+Modified by:XNiczzz
 -- MakeWindow appearance options:
 -- ThemeColor = Color3.fromRGB(145, 80, 255), UIScale = 1,
 -- RainbowTitle = false, RainbowUI = false,
