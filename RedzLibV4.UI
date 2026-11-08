@@ -734,7 +734,7 @@ function redzLib:MakeWindow(Configs)
     if not WaitMinimize then
       WaitMinimize = true
       Window.Dialog:Create({
-        Title = "Você Tem Certeza Que Desaja fechar o SYNHUB?",
+        Title = "Are you sure you want to close NCZMHUB?",
         Confirm = {
           Text = "Close",
           Callback = function()
